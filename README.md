@@ -1,1 +1,1 @@
-# FoodMenu_Enum
+# food-menu-enum
